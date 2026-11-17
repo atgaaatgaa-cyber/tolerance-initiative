@@ -3,7 +3,7 @@
 // Supabase + Local Demo
 // ==========================================
 
-const SUPABASE_URL = "https://xqjassgvdqnqeiuosoo.supabase.co";
+const SUPABASE_URL = "https://xqjassgvdqnqeiueosoo.supabase.co";;
 
 const SUPABASE_ANON_KEY =
 "sb_publishable_-F3D_CNtKstwpQEXpdA7Nw_l05bpZZf";
