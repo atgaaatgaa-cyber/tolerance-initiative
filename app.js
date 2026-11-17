@@ -445,7 +445,7 @@ $("#shareForm").addEventListener("submit", async event => {
         console.error("Submission error:", error);
 
         status.textContent =
-            "تعذر نشر الرسالة. تحقق من الاتصال وحاول مرة أخرى.";
+    "سبب الخطأ: " + (error?.message || String(error));
 
     }
 
